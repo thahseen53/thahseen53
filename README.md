@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/thahsi2" target="blank"><img src="https://img.shields.io/twitter/follow/thahsi2?logo=twitter&style=for-the-badge" alt="thahsi2" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mohammed-thahseen.netlify.app/](https://mohammed-thahseen.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://thahsi-portfolio.netlify.app/](https://thahsi-portfolio.netlify.app/)
 
 - 💬 Ask me about **Html,css,javascript,nodejs,MongoDB,Express,java**
 
